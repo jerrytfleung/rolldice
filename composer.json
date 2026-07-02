@@ -1,5 +1,6 @@
 {
     "name": "jerrytfleung/rolldice",
+    "type": "project",
     "require": {
         "slim/slim": "^4",
         "slim/psr7": "^1"
